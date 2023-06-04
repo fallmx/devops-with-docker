@@ -1,0 +1,5 @@
+https://withered-moon-3225.fly.dev/
+
+This is the spring-example-project app from exercise 1.11.
+
+I used the "fly launch" command and it automatically detected the Dockerfile and deployed in working condition without any tweaks.
