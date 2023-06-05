@@ -1,0 +1,12 @@
+In the backend Dockerfile:
+
+ENV REQUEST_ORIGIN http://localhost:5000
+changed to
+ENV REQUEST_ORIGIN http://localhost
+
+
+In the frontend Dockerfile:
+
+ENV REACT_APP_BACKEND_URL http://localhost:8080
+changed to
+ENV REACT_APP_BACKEND_URL http://localhost/api
