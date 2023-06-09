@@ -1,0 +1,1 @@
+spring-example-project: 611 MB -> 133 MB
