@@ -1,0 +1,2 @@
+example-frontend: 1.26 GB -> 1.25 GB
+example-backend: 1.07 GB -> 1.07 GB
